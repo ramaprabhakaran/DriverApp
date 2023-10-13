@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "330314966769",
+    "firebase_url": "https://driver-app-40042-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "driver-app-40042",
+    "storage_bucket": "driver-app-40042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330314966769:android:edf0b73d5f12ccf8ab6b50",
+        "android_client_info": {
+          "package_name": "com.osepoo.driverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PuAu0h_FhBOj07MHKQ7mTgh1_q-J4io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330314966769:android:cd1d6aabf9c07267ab6b50",
+        "android_client_info": {
+          "package_name": "com.osepoo.passengerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PuAu0h_FhBOj07MHKQ7mTgh1_q-J4io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

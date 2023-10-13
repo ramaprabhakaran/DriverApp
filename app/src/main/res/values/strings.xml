@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CRL Tracker</string>
+    <string name="offline">Offline</string>
+    <string name="online">Online</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS and Wi-Fi and cell networks for your location</string>
+    <string name="online_driver">Online</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="Login">Log in</string>
+    <string name="login">Log in!</string>
+    <string name="click_to_login">Click To login</string>
+    <string name="click_to_register">click_to_Register</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="Sing_out">Sing Out</string>
+    <string name="ResetP">Reset Password</string>
+    <string name="NewP">New Password</string>
+    <string name="Confirm">Confirm New Password</string>
+    <string name="no_acc">Don\'t have an account?</string>
+    <string name="Welcome_back">Welcome Back</string>
+    <string name="Welcome">Welcome </string>
+    <string name="Sing_in">Sing Up</string>
+    <string name="yes_acc">Already have an account</string>
+    <string name="user_id">User ID</string>
+
+
+
+    <string name="Forget_pass">Forget Password</string>
+    <string name="Sing_up">Sing In</string>
+
+
+
+</resources>
